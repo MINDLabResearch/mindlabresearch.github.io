@@ -2,7 +2,7 @@
 layout: post
 title: Meta-analysis Tools
 date: 2015-11-20 01:59:00
-description: description
+description: Guide on meta-analysis tools
 tags: meta, analysis, meta-analysis
 categories: meta-analysis
 thumbnail: assets/img/blog/sdm_screenshot.jpg
