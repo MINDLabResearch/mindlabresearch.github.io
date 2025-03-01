@@ -105,7 +105,7 @@ ninja.data = [{
       
         title: "Meta-analysis Tools",
       
-      description: "description",
+      description: "Guide on meta-analysis tools",
       section: "Posts",
       handler: () => {
         
