@@ -32,3 +32,131 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Antonucci":
+  - firstname: ["Linda", "Linda A.","L. A.", "Linda A"]
+    url: https://www.researchgate.net/profile/Linda-Antonucci-2
+
+"Kambeitz-Ilankovic":
+  - firstname: ["Lana", "Lana M.","L. M.", "Lana M"]
+    url: https://www.researchgate.net/profile/Lana-Kambeitz-Ilankovic
+
+"Kambeitz-Ilankovic*":
+  - firstname: ["Lana", "Lana M.","L. M.", "Lana M"]
+    url: https://www.researchgate.net/profile/Lana-Kambeitz-Ilankovic
+
+"Modabbernia":
+  - firstname: ["Amirhossein", "Amir","A.", "A"]
+    url: https://www.researchgate.net/profile/Amirhossein-Modabbernia
+
+"Antoniades":
+  - firstname: ["Mathilde", "M.", "M"]
+    url: https://www.researchgate.net/profile/Mathilde-Antoniades
+
+"Herrera":
+  - firstname: ["Shaynna", "S.", "S", "Shaynna N.", "Shaynna N", "SN"]
+    url: https://www.researchgate.net/profile/Shaynna-Herrera
+
+"Sarac":
+  - firstname: ["Cansu", "C.", "C"]
+    url: https://www.researchgate.net/profile/Cansu-Sarac
+
+"Corcoran":
+  - firstname: ["Cheryl", "C.", "C", "Cheryl M.", "C. M.", "C M", "Cheryl M"]
+    url: https://www.researchgate.net/profile/Cheryl-Corcoran
+
+"Bilgrami":
+  - firstname: ["Zarina", "Z.", "Z", "Zarina R.", "Z. R.", "Z R", "Zarina R", "ZR"]
+    url: https://www.researchgate.net/profile/Zarina-Bilgrami
+
+"Koutsouleris":
+  - firstname: ["Nikolaos", "N.", "N"]
+    url: https://www.researchgate.net/profile/Nikolaos-Koutsouleris
+
+"Kambeitz":
+  - firstname: ["Joseph", "J.", "J"]
+    url: https://www.researchgate.net/profile/Joseph-Kambeitz
+
+"Frangou":
+  - firstname: ["Sophia", "S.", "S"]
+    url: https://scholar.google.com/citations?user=iRcTmwkAAAAJ&hl=en&oi=ao
+
+"Reichenberg":
+  - firstname: ["Abraham", "A.", "A", "Avi", "Avraham"]
+    url: https://profiles.mountsinai.org/avraham-reichenberg
+
+"Kahn":
+  - firstname: ["René S.", "Rene S.", "R S", "R. S.", "Rene S", "René S"]
+    url: https://scholar.google.com/citations?user=gMhW8hoAAAAJ&hl=en&oi=ao    
+
+"Whalley":
+  - firstname: ["Heather", "H.", "H", "Heather C.", "H. C.", "H C", "Heather C"]
+    url: https://www.researchgate.net/profile/Heather-Whalley-2
+
+"Wenzel":
+  - firstname: ["Julian", "J.", "J"]
+    url: https://www.researchgate.net/profile/Julian-Wenzel
+
+"Penzel":
+  - firstname: ["Nora", "N.", "N"]
+    url: https://www.researchgate.net/profile/Nora-Penzel
+
+"Betz":
+  - firstname: ["Linda", "L.", "L", "Linda T", "Linda T.", "LT"]
+    url: https://www.researchgate.net/profile/Linda-Betz
+
+"Vinogradov":
+  - firstname: ["Sophia", "S.", "S"]
+    url: https://www.researchgate.net/profile/Sophia-Vinogradov
+
+"Dwyer":
+  - firstname: ["Dominic", "D.", "D", "Dominic B.", "D. B.", "D B", "Dominic B"]
+    url: https://www.researchgate.net/profile/Heather-Whalley-2
+
+"Sanfelici":
+  - firstname: ["Rachele", "R.", "R"]
+    url: https://www.researchgate.net/profile/Rachele-Sanfelici
+
+"Ruef":
+  - firstname: ["Anne", "A.", "A"]
+    url: https://www.researchgate.net/profile/Anne-Ruef-2
+
+"Oeztuerk":
+  - firstname: ["Oemer", "O.", "O", "Oemer F.", "O. F.", "O F", "Oemer F", "Oemer Faruk"]
+    url: https://www.researchgate.net/profile/Oemer-Faruk-Oeztuerk
+
+"Jalbrzikowski":
+  - firstname: ["Maria", "M.", "M"]
+    url: https://www.researchgate.net/profile/Maria-Jalbrzikowski
+
+"Hauke":
+  - firstname: ["Daniel", "D.", "D", "Daniel J.", "D. J.", "D J", "Daniel J"]
+    url: https://www.researchgate.net/profile/Daniel-Hauke
+
+"Schmidt":
+  - firstname: ["André", "A.", "A", "Andre"]
+    url: https://www.researchgate.net/profile/Andre-Schmidt
+
+"Fisher":
+  - firstname: ["Melissa", "M.", "M", "Melisa"]
+    url: https://www.researchgate.net/profile/Melissa-Fisher
+
+"Subramaniam":
+  - firstname: ["Karuna", "K.", "K"]
+    url: https://www.researchgate.net/profile/Karuna-Subramaniam
+
+"Doucet":
+  - firstname: ["Gaelle", "G.", "G", "Gaelle E.", "G. E.", "G E", "Gaelle E", "GE"]
+    url: https://www.researchgate.net/profile/Gaelle-Doucet
+
+"Weiske":
+  - firstname: ["Johanna", "J.", "J"]
+    url: https://www.researchgate.net/profile/Johanna-Weiske
+
+"Ge":
+  - firstname: ["Ruiyang", "R.", "R"]
+    url: https://www.researchgate.net/profile/Ruiyang-Ge
+
+"Sanford":
+  - firstname: ["Nicole", "N.", "N"]
+    url: https://www.researchgate.net/profile/Nicole-Sanford

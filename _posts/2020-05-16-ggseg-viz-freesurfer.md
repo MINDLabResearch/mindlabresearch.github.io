@@ -25,7 +25,7 @@ The links to both the blog and GitHub pages below are *extremely informative* (s
 
 ### Source
 
-All the credits for this awesome toolbox go to Dr. Athanasia Mowinckel & Dr. Didac Vidal Pineiro at the Center for Lifespan Changes in Brain and Cognition, University of Oslo. Be sure to check out Dr. Mowinckel’s [blog](https://drmowinckels.io/blog/introducing-the-ggseg-r-package-for-brain-segmentations/), which has a great overview of the different options available with the toolbox.
+All the credits for this awesome toolbox go to Dr. Athanasia Mowinckel & Dr. Didac Vidal Pineiro at the Center for Lifespan Changes in Brain and Cognition, University of Oslo. Be sure to check out Dr. Mowinckel’s [blog](https://drmowinckels.io/blog/2018/introducing-the-ggseg-r-package-for-brain-segmentations/), which has a great overview of the different options available with the toolbox.
 
 - **ggseg GitHub link:** [GitHub - ggseg/ggseg: Plotting tool for brain atlases, in ggplot](https://github.com/LCBC-UiO/ggseg)
 - **ggseg GitHub README.md:** [ggseg/README.md at master · ggseg/ggseg · GitHub](https://github.com/LCBC-UiO/ggseg/blob/master/README.md)
