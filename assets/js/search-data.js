@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-ressources",
-          title: "ressources",
-          description: "Collection of useful ressources for research and teaching.",
+        },{id: "nav-resources",
+          title: "resources",
+          description: "Collection of useful resources for research and teaching.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ressources/";
+            window.location.href = "/resources/";
           },
         },{id: "nav-teaching",
           title: "teaching",
