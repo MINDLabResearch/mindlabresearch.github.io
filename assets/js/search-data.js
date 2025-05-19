@@ -3,18 +3,32 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-code",
+          title: "code",
+          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/code/";
           },
         },{id: "nav-code",
           title: "code",
@@ -112,7 +126,7 @@ ninja.data = [{
               window.location.href = "/team/edwards/";
             },},{id: "team-bailey-todtfeld",
           title: 'Bailey Todtfeld',
-          description: "CRC",
+          description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/gonzales/";
             },},{id: "team-dr-shalaila-haas",
