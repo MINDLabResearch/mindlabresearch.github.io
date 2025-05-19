@@ -30,16 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/code/";
           },
-        },{id: "nav-code",
-          title: "code",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/code/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Listed below are our past and current teaching engagements.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -119,13 +112,23 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "teaching-computational-psychology",
+          title: 'Computational Psychology',
+          description: "Introduction to multivariate and neuroimaging methods: using R Studio to navigate through clinical research",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/lmu-ncp/";
+            },},{id: "teaching-tni-ep",
+          title: 'TNI EP',
+          description: "Translational Neuroimaging - Educational Program",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/tni-ep/";
             },},{id: "team-sam-edwards",
           title: 'Sam Edwards',
           description: "Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/edwards/";
-            },},{id: "team-bailey-todtfeld",
-          title: 'Bailey Todtfeld',
+            },},{id: "team-debora-gonzalez",
+          title: 'Debora Gonzalez',
           description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/gonzales/";
@@ -134,8 +137,8 @@ ninja.data = [{
           description: "Assistant Professor at Mount Sinai",
           section: "Team",handler: () => {
               window.location.href = "/team/haas/";
-            },},{id: "team-bailey-todtfeld",
-          title: 'Bailey Todtfeld',
+            },},{id: "team-theodore-servedio",
+          title: 'Theodore Servedio',
           description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/servedio/";
@@ -144,8 +147,8 @@ ninja.data = [{
           description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/todtfield/";
-            },},{id: "team-bailey-todtfeld",
-          title: 'Bailey Todtfeld',
+            },},{id: "team-maya-valenzano",
+          title: 'Maya Valenzano',
           description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/valenzano/";
