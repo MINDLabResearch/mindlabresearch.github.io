@@ -126,7 +126,7 @@ ninja.data = [{
           title: 'Debora Gonzalez',
           description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
-              window.location.href = "/team/gonzales/";
+              window.location.href = "/team/gonzalez/";
             },},{id: "team-dr-shalaila-haas",
           title: 'Dr. Shalaila Haas',
           description: "Assistant Professor at Mount Sinai",
