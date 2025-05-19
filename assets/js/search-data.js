@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-code",
-          title: "code",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+        },{id: "nav-ressources",
+          title: "ressources",
+          description: "Collection of useful ressources for research and teaching.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/code/";
+            window.location.href = "/ressources/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -107,19 +107,14 @@ ninja.data = [{
             },},{id: "news-i-am-excited-to-announce-that-i-have-been-selected-to-participate-in-the-2024-career-development-institute-for-psychiatry-cdi-further-details-about-this-exciting-two-year-career-enhacement-opportunity-for-early-stage-clinical-scientists-are-available-here",
           title: 'I am excited to announce that I have been selected to participate in...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "teaching-computational-psychology",
+          section: "News",},{id: "teaching-computational-psychology",
           title: 'Computational Psychology',
           description: "Introduction to multivariate and neuroimaging methods: using R Studio to navigate through clinical research",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/lmu-ncp/";
-            },},{id: "teaching-tni-ep",
-          title: 'TNI EP',
-          description: "Translational Neuroimaging - Educational Program",
+            },},{id: "teaching-translational-neuroimaging",
+          title: 'Translational Neuroimaging',
+          description: "Educational Program",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/tni-ep/";
             },},{id: "team-sam-edwards",
