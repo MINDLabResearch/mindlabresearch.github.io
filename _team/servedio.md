@@ -7,7 +7,7 @@ importance: 1
 category: CRC
 ---
 
-<div class="profile float-right"> 
+<div class="profile float-right mb-3"> 
 <img src="/assets/img/team/gender-neutral-user.svg" class="img-fluid z-depth-1 rounded"/>
 </div>
 

@@ -7,7 +7,7 @@ importance: 1
 category: RC
 ---
 
-<div class="profile float-right"> 
+<div class="profile float-right mb-3"> 
 <img src="https://avatars.githubusercontent.com/u/195005691?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
