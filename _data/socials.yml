@@ -15,7 +15,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: shalaila.haas@mssm.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: shalailahaas # your GitHub user name
+github_username: MINDLabResearch # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -26,7 +26,7 @@ github_username: shalailahaas # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: shalailahaas # your LinkedIn user name
+linkedin_username: mind-lab-research # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0003-1385-1050 # your ORCID ID
