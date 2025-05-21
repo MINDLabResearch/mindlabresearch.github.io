@@ -11,4 +11,4 @@ category: RC
 <img src="https://avatars.githubusercontent.com/u/195005691?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-{% remote_include https://github.com/sedwards42/sedwards42/edit/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/sedwards42/sedwards42/refs/heads/main/README.md %}
