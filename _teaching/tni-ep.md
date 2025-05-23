@@ -12,8 +12,8 @@ The Translational Neuroimaging Educational Program, part of the ENIGMA-Lifespan 
 To foster open science, all sessions—including both didactic lectures and hands-on demonstrations—are made freely available to the global scientific community through the program’s YouTube channel. By openly sharing these resources, the program promotes transparency, accessibility, and collaboration across disciplines. Directed by Dr. Shalaila S. Haas (Icahn School of Medicine at Mount Sinai) and Dr. Ruiyang Ge (University of British Columbia), this initiative supports skill development, networking, and community-building in an inclusive, interactive learning environment.
 
 ### Quick Links
-|                        |                                                                      |
-| ---------------------- | -------------------------------------------------------------------- |
+| Resource              | Link                                                                 |
+| --------------------- | -------------------------------------------------------------------- |
 | 🌐 **Website**         | [translational-neuro.org](https://www.translational-neuro.org/)      |
 | 📅 **Upcoming events** | [Event calendar](https://www.translational-neuro.org/events-1)       |
 | ▶️ **YouTube channel** | [@Translational-Neuro](https://www.youtube.com/@Translational-Neuro) |
