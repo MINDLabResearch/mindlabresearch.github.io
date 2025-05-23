@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  Maya Valenzano
+title: Maya Valenzano
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/212566480?v=4
 importance: 1
 category: CRC
 ---
 
-<div class="profile float-right"> 
+<div class="profile float-right mb-3"> 
 <img src="https://avatars.githubusercontent.com/u/212566480?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
