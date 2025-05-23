@@ -141,7 +141,7 @@ ninja.data = [{
           title: 'Bailey Todtfeld',
           description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
-              window.location.href = "/team/todtfield/";
+              window.location.href = "/team/todtfeld/";
             },},{id: "team-maya-valenzano",
           title: 'Maya Valenzano',
           description: "Clinical Research Coordinator",
