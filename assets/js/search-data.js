@@ -107,7 +107,12 @@ ninja.data = [{
             },},{id: "news-i-am-excited-to-announce-that-i-have-been-selected-to-participate-in-the-2024-career-development-institute-for-psychiatry-cdi-further-details-about-this-exciting-two-year-career-enhacement-opportunity-for-early-stage-clinical-scientists-are-available-here",
           title: 'I am excited to announce that I have been selected to participate in...',
           description: "",
-          section: "News",},{id: "teaching-computational-psychology",
+          section: "News",},{id: "news-it-was-great-to-see-our-wonderful-crcs-working-on-the-predictor-study-present-our-recent-work-on-quot-optimizing-audiovisual-recording-equipment-for-ai-driven-psychiatric-research-a-feasibility-pilot-study-quot-at-the-society-of-biological-psychiatry-in-toronto",
+          title: 'It was great to see our wonderful CRCs working on the PREDiCTOR Study...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
+            },},{id: "teaching-computational-psychology",
           title: 'Computational Psychology',
           description: "Introduction to multivariate and neuroimaging methods: using R Studio to navigate through clinical research",
           section: "Teaching",handler: () => {
