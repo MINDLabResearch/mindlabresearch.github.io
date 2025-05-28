@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Listed below are our past and current teaching engagements.
 nav: true
-nav_order: 4
+nav_order: 6
 display_categories: [LMU, TNI]
 horizontal: true
 ---
