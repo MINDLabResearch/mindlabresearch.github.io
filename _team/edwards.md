@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sam Edwards
-description: Research Coordinator
+description: Graduate
 img: https://avatars.githubusercontent.com/u/195005691?v=4
 importance: 1
 category: Graduate
