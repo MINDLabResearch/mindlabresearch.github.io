@@ -144,6 +144,16 @@ ninja.data = [{
           description: "Assistant Professor at Mount Sinai",
           section: "Team",handler: () => {
               window.location.href = "/team/haas/";
+            },},{id: "team-dr-patrick-kastner",
+          title: 'Dr. Patrick Kastner',
+          description: "Assistant Professor and Director of the Sustainable Urban Systems Lab at Georgia Tech.",
+          section: "Team",handler: () => {
+              window.location.href = "/team/kastner/";
+            },},{id: "team-dr-benson-ku",
+          title: 'Dr. Benson Ku',
+          description: "Assistant Professor at Emory University",
+          section: "Team",handler: () => {
+              window.location.href = "/team/ku/";
             },},{id: "team-theodore-servedio",
           title: 'Theodore Servedio',
           description: "Clinical Research Coordinator",
