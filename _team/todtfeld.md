@@ -4,7 +4,7 @@ title: Bailey Todtfeld
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/200670466?v=4
 importance: 1
-category: CRC
+category: Graduate
 ---
 
 <div class="profile float-right mb-3"> 

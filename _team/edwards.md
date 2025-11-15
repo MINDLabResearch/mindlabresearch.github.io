@@ -4,7 +4,7 @@ title: Sam Edwards
 description: Research Coordinator
 img: https://avatars.githubusercontent.com/u/195005691?v=4
 importance: 1
-category: RC
+category: Graduate
 ---
 
 <div class="profile float-right mb-3"> 

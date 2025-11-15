@@ -4,7 +4,7 @@ title: Theodore Servedio
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/212566093?v=4
 importance: 1
-category: CRC
+category: Graduate
 ---
 
 <div class="profile float-right mb-3"> 
