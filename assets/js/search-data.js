@@ -131,7 +131,7 @@ ninja.data = [{
               window.location.href = "/teaching/tni-ep/";
             },},{id: "team-sam-edwards",
           title: 'Sam Edwards',
-          description: "Research Coordinator",
+          description: "Graduate",
           section: "Team",handler: () => {
               window.location.href = "/team/edwards/";
             },},{id: "team-debora-gonzalez",
