@@ -5,7 +5,7 @@ title: team
 description: Current and previous members of the lab
 nav: true
 nav_order: 7
-display_categories: [Director, CRC, RC]
+display_categories: [Director, CRC, RC, Alumni]
 horizontal: true
 ---
 
