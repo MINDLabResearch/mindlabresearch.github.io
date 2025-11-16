@@ -144,6 +144,11 @@ ninja.data = [{
           description: "Assistant Professor at Mount Sinai",
           section: "Team",handler: () => {
               window.location.href = "/team/haas/";
+            },},{id: "team-dr-lana-kambeitz-ilankovic",
+          title: 'Dr. Lana Kambeitz-Ilankovic',
+          description: "Research Group Leader at University of Cologne, Germany",
+          section: "Team",handler: () => {
+              window.location.href = "/team/kambeitz-ilankovic/";
             },},{id: "team-dr-patrick-kastner",
           title: 'Dr. Patrick Kastner',
           description: "Assistant Professor and Director of the Sustainable Urban Systems Lab at Georgia Tech.",
