@@ -2,7 +2,7 @@
 layout: page
 title: Dr. Shalaila Haas
 description: Assistant Professor at Mount Sinai
-img: hhttps://avatars.githubusercontent.com/u/13004398?v=4
+img: https://avatars.githubusercontent.com/u/13004398
 importance: 1
 category: Director
 ---
