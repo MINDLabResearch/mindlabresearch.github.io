@@ -134,6 +134,16 @@ ninja.data = [{
           description: "Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/edwards/";
+            },},{id: "team-kendall-fording",
+          title: 'Kendall Fording',
+          description: "Volunteer",
+          section: "Team",handler: () => {
+              window.location.href = "/team/fording/";
+            },},{id: "team-bree-foster",
+          title: 'Bree Foster',
+          description: "Volunteer",
+          section: "Team",handler: () => {
+              window.location.href = "/team/foster/";
             },},{id: "team-debora-gonzalez",
           title: 'Debora Gonzalez',
           description: "Clinical Research Coordinator",
@@ -159,6 +169,11 @@ ninja.data = [{
           description: "Assistant Professor at Emory University",
           section: "Team",handler: () => {
               window.location.href = "/team/ku/";
+            },},{id: "team-sophie-riviere",
+          title: 'Sophie Riviere',
+          description: "Clinical Research Coordinator",
+          section: "Team",handler: () => {
+              window.location.href = "/team/riviere/";
             },},{id: "team-theodore-servedio",
           title: 'Theodore Servedio',
           description: "Clinical Research Coordinator",
