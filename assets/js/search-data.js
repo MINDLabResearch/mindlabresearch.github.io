@@ -179,6 +179,11 @@ ninja.data = [{
           description: "Clinical Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/servedio/";
+            },},{id: "team-nazly-suarez",
+          title: 'Nazly Suarez',
+          description: "Clinical Research Coordinator",
+          section: "Team",handler: () => {
+              window.location.href = "/team/suarez/";
             },},{id: "team-bailey-todtfeld",
           title: 'Bailey Todtfeld',
           description: "Clinical Research Coordinator",
