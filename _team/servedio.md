@@ -3,7 +3,7 @@ layout: page
 title: Theodore Servedio
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/212566093?v=4
-importance: 1
+importance: 3
 category: Graduate
 ---
 

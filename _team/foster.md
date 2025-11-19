@@ -3,7 +3,7 @@ layout: page
 title: Bree Foster
 description: Volunteer
 img: https://avatars.githubusercontent.com/u/244768533?v=4
-importance: 1
+importance: 9
 category: Graduate
 ---
 

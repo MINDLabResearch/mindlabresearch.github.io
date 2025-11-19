@@ -3,7 +3,7 @@ layout: page
 title: Nazly Suarez
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/235578128?v=4
-importance: 1
+importance: 5
 category: Graduate
 ---
 

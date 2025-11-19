@@ -3,7 +3,7 @@ layout: page
 title: Danielle Obergh
 description: Volunteer
 img: https://avatars.githubusercontent.com/u/244402906?v=4
-importance: 1
+importance: 7
 category: Graduate
 ---
 

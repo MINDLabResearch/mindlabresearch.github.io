@@ -3,7 +3,7 @@ layout: page
 title: Bailey Todtfeld
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/200670466?v=4
-importance: 1
+importance: 2
 category: Graduate
 ---
 
