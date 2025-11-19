@@ -169,6 +169,11 @@ ninja.data = [{
           description: "Assistant Professor at Emory University",
           section: "Team",handler: () => {
               window.location.href = "/team/ku/";
+            },},{id: "team-danielle-obergh",
+          title: 'Danielle Obergh',
+          description: "Volunteer",
+          section: "Team",handler: () => {
+              window.location.href = "/team/obergh/";
             },},{id: "team-sophie-riviere",
           title: 'Sophie Riviere',
           description: "Clinical Research Coordinator",
