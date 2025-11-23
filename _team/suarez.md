@@ -12,4 +12,3 @@ category: Graduate
 </div>
 
 {% remote_include https://github.com/nazly-suarez/nazly-suarez/blob/main/README.md %}
-s

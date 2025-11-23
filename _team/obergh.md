@@ -12,4 +12,3 @@ category: Graduate
 </div>
 
 {% remote_include https://github.com/daniobergh/daniobergh/blob/main/README.md %}
-s
