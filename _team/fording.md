@@ -3,7 +3,7 @@ layout: page
 title: Kendall Fording
 description: Volunteer
 img: https://avatars.githubusercontent.com/u/244421655?v=4
-importance: 10
+importance: 5
 category: Graduate
 ---
 
@@ -11,4 +11,4 @@ category: Graduate
 <img src="https://avatars.githubusercontent.com/u/244421655?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-{% remote_include https://github.com/kendallfording/kendallfording/blob/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/kendallfording/kendallfording/blob/main/README.md %}

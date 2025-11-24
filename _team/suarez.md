@@ -3,7 +3,7 @@ layout: page
 title: Nazly Suarez
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/235578128?v=4
-importance: 6
+importance: 3
 category: Graduate
 ---
 
@@ -11,4 +11,4 @@ category: Graduate
 <img src="https://avatars.githubusercontent.com/u/235578128?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-{% remote_include https://github.com/nazly-suarez/nazly-suarez/blob/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/nazly-suarez/nazly-suarez/blob/main/README.md %}
