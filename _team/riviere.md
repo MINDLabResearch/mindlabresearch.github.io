@@ -11,4 +11,4 @@ category: Graduate
 <img src="https://avatars.githubusercontent.com/u/235541292?v=4" class="img-fluid z-depth-1 rounded"/>
 </div>
 
-{% remote_include https://raw.githubusercontent.com/sophiewriviere/sophieriviere/blob/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/sophiewriviere/sophiewriviere/refs/heads/main/README.md %}
