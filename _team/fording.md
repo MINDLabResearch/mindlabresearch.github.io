@@ -3,7 +3,7 @@ layout: page
 title: Kendall Fording
 description: Volunteer
 img: https://avatars.githubusercontent.com/u/244421655?v=4
-importance: 5
+importance: 6
 category: Graduate
 ---
 
