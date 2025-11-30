@@ -156,7 +156,7 @@ ninja.data = [{
               window.location.href = "/team/gonzales/";
             },},{id: "team-dr-shalaila-haas",
           title: 'Dr. Shalaila Haas',
-          description: "Assistant Professor at Mount Sinai",
+          description: "Assistant Professor and Director of the MIND Lab",
           section: "Team",handler: () => {
               window.location.href = "/team/haas/";
             },},{id: "team-dr-lana-kambeitz-ilankovic",
