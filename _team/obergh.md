@@ -4,7 +4,7 @@ title: Danielle Obergh
 description: Volunteer
 img: https://avatars.githubusercontent.com/u/244402906?v=4
 importance: 4
-category: Graduate
+category: Lab
 ---
 
 <div class="profile float-right mb-3"> 

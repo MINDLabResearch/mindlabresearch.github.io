@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Dr. Shalaila Haas
-description: Assistant Professor at Mount Sinai
+description: Assistant Professor and Director of the MIND Lab
 img: https://avatars.githubusercontent.com/u/13004398
 importance: 1
-category: Director
+category: Lab
 ---
 
 <div class="profile rounded-circle float-right mb-3"> 

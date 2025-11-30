@@ -3,8 +3,8 @@ layout: page
 title: Maya Valenzano
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/212566480?v=4
-importance: 2
-category: Graduate
+importance: 3
+category: Lab
 ---
 
 <div class="profile float-right mb-3"> 

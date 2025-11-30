@@ -4,7 +4,7 @@ title: Bree Foster
 description: Volunteer
 img: https://avatars.githubusercontent.com/u/244768533?v=4
 importance: 6
-category: Graduate
+category: Lab
 ---
 
 <div class="profile float-right mb-3"> 

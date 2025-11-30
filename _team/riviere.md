@@ -4,7 +4,7 @@ title: Sophie Riviere
 description: Clinical Research Coordinator
 img: https://avatars.githubusercontent.com/u/235541292?v=4
 importance: 3
-category: Graduate
+category: Lab
 ---
 
 <div class="profile float-right mb-3"> 
