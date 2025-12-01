@@ -149,6 +149,11 @@ ninja.data = [{
           description: "Volunteer",
           section: "Team",handler: () => {
               window.location.href = "/team/franco/";
+            },},{id: "team-aashree-gandhi",
+          title: 'Aashree Gandhi',
+          description: "Volunteer",
+          section: "Team",handler: () => {
+              window.location.href = "/team/gandhi/";
             },},{id: "team-debora-gonzalez",
           title: 'Debora Gonzalez',
           description: "Clinical Research Coordinator",
