@@ -174,6 +174,11 @@ ninja.data = [{
           description: "Assistant Professor and Director of the Sustainable Urban Systems Lab at Georgia Tech.",
           section: "Team",handler: () => {
               window.location.href = "/team/kastner/";
+            },},{id: "team-daniel-katzman",
+          title: 'Daniel Katzman',
+          description: "Volunteer",
+          section: "Team",handler: () => {
+              window.location.href = "/team/katzman/";
             },},{id: "team-dr-benson-ku",
           title: 'Dr. Benson Ku',
           description: "Assistant Professor at Emory University",
