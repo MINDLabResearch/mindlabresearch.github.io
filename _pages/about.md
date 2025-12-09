@@ -2,18 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Multimodal Insights into Neuopsychiatric Disorders
+
 
 profile:
   align: right
-  image: # prof_pic.jpg
+  image: cd/logo.svg
+  image_dark: cd/logo-dark.svg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Psychiatry</p>
-    <p>Mount Sinai Health System</p>
-    <p>1255 5th Ave, Suite C-2</p>
-    <p>Room 112</p>
-    <p>New York, NY 10029</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,4 +26,6 @@ latest_posts:
 ---
 
 {% remote_include https://raw.githubusercontent.com/MINDLabResearch/.github/refs/heads/main/profile/README.md %}
+
+[(More info)](/about_detailed)
 
