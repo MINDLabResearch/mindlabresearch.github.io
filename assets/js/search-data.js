@@ -119,6 +119,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-bailey-maya-theo-and-sam-presented-at-tips",
+          title: 'Bailey, Maya, Theo and Sam presented at TIPS!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11/";
             },},{id: "news-celebrating-a-successful-2025",
           title: 'Celebrating a successful 2025!',
           description: "",
