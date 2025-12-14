@@ -171,7 +171,7 @@ ninja.data = [{
               window.location.href = "/team/gandhi/";
             },},{id: "team-debora-gonzalez",
           title: 'Debora Gonzalez',
-          description: "Clinical Research Coordinator",
+          description: "PhD Student",
           section: "Team",handler: () => {
               window.location.href = "/team/gonzales/";
             },},{id: "team-dr-shalaila-haas",
