@@ -119,6 +119,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-celebrating-a-successful-2025",
+          title: 'Celebrating a successful 2025!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{id: "teaching-computational-psychology",
           title: 'Computational Psychology',
           description: "Introduction to multivariate and neuroimaging methods: using R Studio to navigate through clinical research",
