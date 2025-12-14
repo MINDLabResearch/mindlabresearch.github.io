@@ -119,11 +119,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
-            },},{id: "news-bailey-presented-at-iepa-2025",
-          title: 'Bailey presented at IEPA 2025!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_12/";
             },},{id: "news-bailey-maya-theo-and-sam-presented-at-tips",
           title: 'Bailey, Maya, Theo and Sam presented at TIPS!',
           description: "",
