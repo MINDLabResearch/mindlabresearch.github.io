@@ -52,39 +52,44 @@ ninja.data = [{
             window.location.href = "/team/";
           },
         },{id: "post-ggseg-visualization-with-freesurfer-data-in-r",
-      
-        title: "ggseg visualization with Freesurfer data in R",
-      
-      description: "A step-by-step guide for installing and using the ggseg visualization toolbox in RStudio, covering required libraries, installation steps, and atlas options for neuroimaging data.",
-      section: "Posts",
-      handler: () => {
         
-          window.location.href = "/blog/2020/ggseg-viz-freesurfer/";
+          title: "ggseg visualization with Freesurfer data in R",
         
-      },
-    },{id: "post-installing-freesurfer-using-enhanced-mode-ubuntu-18-04-for-hyper-v-on-windows-10",
-      
-        title: "Installing Freesurfer Using Enhanced Mode Ubuntu 18.04 for Hyper-V on Windows 10",
-      
-      description: "Guide to installing FreeSurfer on Ubuntu 18.04 in Hyper-V (Windows 10) with additional setup steps",
-      section: "Posts",
-      handler: () => {
+        description: "A step-by-step guide for installing and using the ggseg visualization toolbox in RStudio, covering required libraries, installation steps, and atlas options for neuroimaging data.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/ggseg-viz-freesurfer/";
+          
+        },
+      },{id: "post-installing-freesurfer-using-enhanced-mode-ubuntu-18-04-for-hyper-v-on-windows-10",
         
-          window.location.href = "/blog/2020/installing-freesurfer/";
+          title: "Installing Freesurfer Using Enhanced Mode Ubuntu 18.04 for Hyper-V on Windows 10",
         
-      },
-    },{id: "post-meta-analysis-tools",
-      
-        title: "Meta-analysis Tools",
-      
-      description: "Guide on meta-analysis tools",
-      section: "Posts",
-      handler: () => {
+        description: "Guide to installing FreeSurfer on Ubuntu 18.04 in Hyper-V (Windows 10) with additional setup steps",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/installing-freesurfer/";
+          
+        },
+      },{id: "post-meta-analysis-tools",
         
-          window.location.href = "/blog/2015/meta-analysis-tools/";
+          title: "Meta-analysis Tools",
         
-      },
-    },{id: "news-early-career-award-2022-schizophrenia-international-research-society",
+        description: "Guide on meta-analysis tools",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/meta-analysis-tools/";
+          
+        },
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-early-career-award-2022-schizophrenia-international-research-society",
           title: 'Early Career Award - 2022 Schizophrenia International Research Society.',
           description: "",
           section: "News",},{id: "news-poster-finalist-for-the-abstract-titled-improved-individualized-identification-of-schizophrenia-and-clinical-high-risk-for-psychosis-when-combining-cognition-with-natural-language-processing-at-the-schizophrenia-international-research-society-congress",
@@ -230,6 +235,13 @@ ninja.data = [{
           section: "Team",handler: () => {
               window.location.href = "/team/valenzano/";
             },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
