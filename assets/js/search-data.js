@@ -84,12 +84,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/meta-analysis-tools/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-early-career-award-2022-schizophrenia-international-research-society",
+      },{id: "news-early-career-award-2022-schizophrenia-international-research-society",
           title: 'Early Career Award - 2022 Schizophrenia International Research Society.',
           description: "",
           section: "News",},{id: "news-poster-finalist-for-the-abstract-titled-improved-individualized-identification-of-schizophrenia-and-clinical-high-risk-for-psychosis-when-combining-cognition-with-natural-language-processing-at-the-schizophrenia-international-research-society-congress",
@@ -235,20 +230,6 @@ ninja.data = [{
           section: "Team",handler: () => {
               window.location.href = "/team/valenzano/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%73%68%61%6C%61%69%6C%61.%68%61%61%73@%6D%73%73%6D.%65%64%75", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
