@@ -211,6 +211,30 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+
+  // Theme-aware logo switching
+  .profile-image-container {
+    .light-mode-image {
+      display: block;
+    }
+
+    .dark-mode-image {
+      display: none;
+    }
+  }
+}
+
+// Dark mode logo switching
+html[data-theme="dark"] {
+  .profile .profile-image-container {
+    .light-mode-image {
+      display: none;
+    }
+
+    .dark-mode-image {
+      display: block;
+    }
+  }
 }
 
 .profile.float-right {
@@ -1433,7 +1457,8 @@ ninja-keys::part(ninja-input-wrapper) {
 figure.cover {
   display: inline-block;
   text-align: center;
-  margin: 0.5rem; /* adjust as needed */
+  margin: 0.5rem;
+  /* adjust as needed */
 
   img {
     vertical-align: bottom;
