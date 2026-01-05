@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-30'
+  last_updated: '2026-01-05'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: "Multiband fractional amplitude of low-frequency fluctuations predicts social functioning transdiagnostically in the clinical high-risk for psychosis state and recent-onset \u2026"
     year: '2022'
   AREhBXYAAAAJ:2tRrZ1ZAMYUC:
-    citations: 281
+    citations: 284
     title: Multimodal machine learning workflows for prediction of psychosis in patients with clinical high-risk syndromes and recent-onset depression
     year: '2021'
   AREhBXYAAAAJ:3NQIlFlcGxIC:
@@ -110,7 +110,7 @@ papers:
     title: Evidence of discontinuity between psychosis-risk and non-clinical samples in the neuroanatomical correlates of social function
     year: '2022'
   AREhBXYAAAAJ:CB2v5VPnA5kC:
-    citations: 6
+    citations: 5
     title: A multivariate cognitive approach to predict social functioning in recent onset psychosis in response to computerized cognitive training
     year: '2024'
   AREhBXYAAAAJ:CaZNVDsoPx4C:
@@ -134,7 +134,7 @@ papers:
     title: 'F70. COMPUTERIZED SOCIAL COGNITIVE TRAINING (SCT) IMPROVES COGNITION AND RESTORES FUNCTIONAL CONNECTIVITY IN RECENT ONSET PSYCHOSIS: AN INTERIM REPORT'
     year: '2018'
   AREhBXYAAAAJ:F1b5ZUV5XREC:
-    citations: 30
+    citations: 29
     title: A multivariate neuromonitoring approach to neuroplasticity-based computerized cognitive training in recent onset psychosis
     year: '2021'
   AREhBXYAAAAJ:FiytvqdAVhgC:
@@ -210,7 +210,7 @@ papers:
     title: 'Disrupted Hierarchical Functional Brain Organization in Affective and Psychotic Disorders: Insights from Functional Brain Gradients'
     year: '2025'
   AREhBXYAAAAJ:SjuI4pbJlxcC:
-    citations: 50
+    citations: 49
     title: Brain responses to intermittent fasting and the healthy living diet in older adults
     year: '2024'
   AREhBXYAAAAJ:U4n9YNQMCAIC:
@@ -282,7 +282,7 @@ papers:
     title: Transdiagnostic subgroups of cognitive impairment in early affective and psychotic illness
     year: '2024'
   AREhBXYAAAAJ:jgBuDB5drN8C:
-    citations: 59
+    citations: 58
     title: 'Construct validity for computational linguistic metrics in individuals at clinical risk for psychosis: associations with clinical ratings'
     year: '2022'
   AREhBXYAAAAJ:kVjdVfd2voEC:
@@ -358,6 +358,6 @@ papers:
     title: A case report and first-person account of an individual at risk for psychosis who improved during the COVID-19 pandemic
     year: '2022'
   AREhBXYAAAAJ:yxmsSjX2EkcC:
-    citations: 31
+    citations: 32
     title: 'BrainAGE, brain health, and mental disorders: A systematic review'
     year: '2024'
