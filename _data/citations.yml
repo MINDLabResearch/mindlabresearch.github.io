@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-14'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Alterations of Functional Connectivity Dynamics in Affective and Psychotic Disorders
     year: '2024'
   AREhBXYAAAAJ:48xauSegjOkC:
-    citations: 24
+    citations: 25
     title: 'The clinical relevance of formal thought disorder in the early stages of psychosis: results from the PRONIA study'
     year: '2022'
   AREhBXYAAAAJ:4xDN1ZYqzskC:
@@ -174,7 +174,7 @@ papers:
     title: Generalizability of BrainAGE Models of Brain Morphometry Across Distinct Ethnoracial Groups
     year: '2025'
   AREhBXYAAAAJ:MhiOAD_qIWkC:
-    citations: 102
+    citations: 103
     title: 'Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation'
     year: '2024'
   AREhBXYAAAAJ:NyGDZy8z5eUC:
@@ -210,7 +210,7 @@ papers:
     title: 'Disrupted Hierarchical Functional Brain Organization in Affective and Psychotic Disorders: Insights from Functional Brain Gradients'
     year: '2025'
   AREhBXYAAAAJ:SjuI4pbJlxcC:
-    citations: 49
+    citations: 53
     title: Brain responses to intermittent fasting and the healthy living diet in older adults
     year: '2024'
   AREhBXYAAAAJ:U4n9YNQMCAIC:
@@ -266,7 +266,7 @@ papers:
     title: Cognitive Ability and MRI-Predicted Age Gap in Healthy Individuals From a Large Epidemiological Sample
     year: '2020'
   AREhBXYAAAAJ:j7_hQOaDUrUC:
-    citations: 15
+    citations: 16
     title: The impact of visual dysfunctions in recent-onset psychosis and clinical high-risk state for psychosis
     year: '2022'
   AREhBXYAAAAJ:jE2MZjpN3IcC:
@@ -278,7 +278,7 @@ papers:
     title: Alterations of functional connectivity dynamics in affective and psychotic disorders
     year: '2023'
   AREhBXYAAAAJ:jU7OWUQzBzMC:
-    citations: 16
+    citations: 17
     title: Transdiagnostic subgroups of cognitive impairment in early affective and psychotic illness
     year: '2024'
   AREhBXYAAAAJ:jgBuDB5drN8C:
@@ -294,7 +294,7 @@ papers:
     title: 'From Snapshots to Stable Outcomes: rs-fMRI-based Prognosis of Functioning in Patients with Psychosis Risk or Recent-Onset Depression'
     year: '2025'
   AREhBXYAAAAJ:kw52XkFRtyQC:
-    citations: 56
+    citations: 57
     title: Normative Modeling of Brain Morphometry in Clinical High Risk for Psychosis
     year: '2023'
   AREhBXYAAAAJ:lvd772isFD0C:
@@ -310,7 +310,7 @@ papers:
     title: S44. NEUROBIOLOGICAL FINGERPRINTS OF COGNITIVE SUBTYPES IN RECENT ONSET PSYCHOSIS PATIENTS
     year: '2020'
   AREhBXYAAAAJ:nZcligLrVowC:
-    citations: 106
+    citations: 109
     title: 'Multi-outcome meta-analysis (MOMA) of cognitive remediation in schizophrenia: revisiting the relevance of human coaching and elucidating interplay between multiple outcomes'
     year: '2019'
   AREhBXYAAAAJ:otzGkya1bYkC:
