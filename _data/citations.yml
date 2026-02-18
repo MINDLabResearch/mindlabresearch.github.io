@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-18'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: "Multiband fractional amplitude of low-frequency fluctuations predicts social functioning transdiagnostically in the clinical high-risk for psychosis state and recent-onset \u2026"
     year: '2022'
   AREhBXYAAAAJ:2tRrZ1ZAMYUC:
-    citations: 284
+    citations: 286
     title: Multimodal machine learning workflows for prediction of psychosis in patients with clinical high-risk syndromes and recent-onset depression
     year: '2021'
   AREhBXYAAAAJ:3NQIlFlcGxIC:
@@ -50,7 +50,7 @@ papers:
     title: Metabolic status modulates global and local brain age estimates in overweight and obese adults
     year: '2025'
   AREhBXYAAAAJ:6bLC7aUMtPcC:
-    citations: 1
+    citations: 2
     title: '42. Network-BrainAGE: A New Metric to Assess Network-Based Brain Aging'
     year: '2024'
   AREhBXYAAAAJ:6yz0xqPARnAC:
@@ -146,7 +146,7 @@ papers:
     title: Elucidating the efficacy and response to social cognitive training in recent-onset psychosis
     year: '2019'
   AREhBXYAAAAJ:HGTzPopzzJcC:
-    citations: 1
+    citations: 2
     title: 96. Network BrainAGE and Cognitive Functioning in First Episode Mania
     year: '2025'
   AREhBXYAAAAJ:HhcuHIWmDEUC:
@@ -218,7 +218,7 @@ papers:
     title: Estimating Self-Disturbance in Psychosis and Its Risk States Using Natural Language Processing Analysis of Open-Ended Interviews
     year: '2022'
   AREhBXYAAAAJ:U_HPUtbDl20C:
-    citations: 0
+    citations: 1
     title: 'Individual-level brain phenotypes in first-episode mania: normative modelling of brain morphometry and brainAGE'
     year: '2025'
   AREhBXYAAAAJ:VN7nJs4JPk0C:
@@ -233,6 +233,10 @@ papers:
     citations: 0
     title: '6.35 Distinct Subgroups Within Adolescents With Family History of Drug Use: Insights From the ABCD Study Using K-Means Clustering'
     year: '2023'
+  AREhBXYAAAAJ:YsrPvlHIBpEC:
+    citations: 0
+    title: Brain texture alterations predict subtle visual perceptual dysfunctions in recent onset psychosis and clinical high-risk state
+    year: '2026'
   AREhBXYAAAAJ:ZzlSgRqYykMC:
     citations: 17
     title: 'Neurocognitive and neuroanatomical maturation in the clinical high-risk states for psychosis: a pattern recognition study'
@@ -262,7 +266,7 @@ papers:
     title: Cognitive Ability and MRI-Predicted Age Gap in Healthy Individuals From a Large Epidemiological Sample
     year: '2020'
   AREhBXYAAAAJ:j7_hQOaDUrUC:
-    citations: 22
+    citations: 23
     title: The impact of visual dysfunctions in recent-onset psychosis and clinical high-risk state for psychosis
     year: '2022'
   AREhBXYAAAAJ:jE2MZjpN3IcC:
@@ -326,7 +330,7 @@ papers:
     title: "From Snapshots to Stable Outcomes: Resting-State Functional Magnetic Resonance Imaging\u2013Based Prognosis of Functioning in Patients With Psychosis Risk or Recent-Onset Depression"
     year: '2025'
   AREhBXYAAAAJ:rHJHxKgnXwkC:
-    citations: 32
+    citations: 33
     title: "Brain\u2010age prediction: Systematic evaluation of site effects, and sample age range and size"
     year: '2024'
   AREhBXYAAAAJ:sJsF-0ZLhtgC:
@@ -369,3 +373,7 @@ papers:
     citations: 36
     title: 'BrainAGE, brain health, and mental disorders: A systematic review'
     year: '2024'
+  AREhBXYAAAAJ:ziOE8S1-AIUC:
+    citations: 0
+    title: MULTIMODAL PROGNOSIS OF NEGATIVE SYMPTOM SEVERITY IN INDIVIDUALS WITH INCREASED RISK OF DEVELOPING PSYCHOSIS
+    year: '2020'
