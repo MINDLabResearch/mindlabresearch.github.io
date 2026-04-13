@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-13'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: Using brain structural neuroimaging measures to predict psychosis onset for individuals at clinical high-risk
     year: '2024'
   AREhBXYAAAAJ:0CzhzZyukY4C:
-    citations: 37
+    citations: 38
     title: 'Cognitive subtypes in recent onset psychosis: distinct neurobiological fingerprints?'
     year: '2021'
   AREhBXYAAAAJ:1DsIQWDZLl8C:
@@ -25,8 +25,12 @@ papers:
     citations: 0
     title: "Multiband fractional amplitude of low-frequency fluctuations predicts social functioning transdiagnostically in the clinical high-risk for psychosis state and recent-onset \u2026"
     year: '2022'
+  AREhBXYAAAAJ:2l5NCbZemmgC:
+    citations: 0
+    title: Anhedonia as a Potential Transdiagnostic Phenotype With Immune-Related Changes in Recent-Onset Mental Health Disorders
+    year: '2025'
   AREhBXYAAAAJ:2tRrZ1ZAMYUC:
-    citations: 299
+    citations: 300
     title: Multimodal machine learning workflows for prediction of psychosis in patients with clinical high-risk syndromes and recent-onset depression
     year: '2021'
   AREhBXYAAAAJ:3NQIlFlcGxIC:
@@ -93,6 +97,10 @@ papers:
     citations: 4
     title: 'Processing speed and brain volume in individuals at clinical high-risk for psychosis with comorbid eating disorders: A brief report.'
     year: '2020'
+  AREhBXYAAAAJ:An6A6Jpfc1oC:
+    citations: 0
+    title: 'Exploring the Moderating Role of Childhood Adversity in the Association Between Cannabis Use and Psychosis '
+    year: '2025'
   AREhBXYAAAAJ:Aul-kAQHnToC:
     citations: 0
     title: Patterns of Mismatch Negativity Deficits in Individuals at Clinical High Risk for Psychosis and Association with Symptoms
@@ -132,6 +140,10 @@ papers:
   AREhBXYAAAAJ:Dem6FJhTUoYC:
     citations: 0
     title: CentileBrain-Normative Modeling of Brain Morphometry and its Generalizability Across Ethnoracial Groups
+    year: '2025'
+  AREhBXYAAAAJ:EPG8bYD4jVwC:
+    citations: 0
+    title: 'Resting-State Connectivity-Based Classification of Clinical High-Risk for Psychosis: From Diagnosis to Symptom-Specific Biomarkers '
     year: '2025'
   AREhBXYAAAAJ:Ehil0879vHcC:
     citations: 0
@@ -213,8 +225,12 @@ papers:
     citations: 0
     title: 'Disrupted Hierarchical Functional Brain Organization in Affective and Psychotic Disorders: Insights from Functional Brain Gradients'
     year: '2025'
+  AREhBXYAAAAJ:SGW5VrABaM0C:
+    citations: 0
+    title: Network-Informed Brain Aging Across the Psychosis-Spectrum
+    year: '2025'
   AREhBXYAAAAJ:SjuI4pbJlxcC:
-    citations: 63
+    citations: 64
     title: Brain responses to intermittent fasting and the healthy living diet in older adults
     year: '2024'
   AREhBXYAAAAJ:U4n9YNQMCAIC:
@@ -330,7 +346,7 @@ papers:
     title: S44. NEUROBIOLOGICAL FINGERPRINTS OF COGNITIVE SUBTYPES IN RECENT ONSET PSYCHOSIS PATIENTS
     year: '2020'
   AREhBXYAAAAJ:nZcligLrVowC:
-    citations: 116
+    citations: 117
     title: 'Multi-outcome meta-analysis (MOMA) of cognitive remediation in schizophrenia: Revisiting the relevance of human coaching and elucidating interplay between multiple outcomes'
     year: '2019'
   AREhBXYAAAAJ:oi2SiIJ9l4AC:
@@ -344,7 +360,7 @@ papers:
   AREhBXYAAAAJ:pAkWuXOU-OoC:
     citations: 0
     title: "From Snapshots to Stable Outcomes: Resting-State Functional Magnetic Resonance Imaging\u2013Based Prognosis of Functioning in Patients With Psychosis Risk or Recent-Onset Depression"
-    year: '2025'
+    year: '2026'
   AREhBXYAAAAJ:rHJHxKgnXwkC:
     citations: 43
     title: "Brain\u2010age prediction: Systematic evaluation of site effects, and sample age range and size"
