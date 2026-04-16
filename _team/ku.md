@@ -3,6 +3,7 @@ layout: page
 title: Dr. Benson Ku
 description: Assistant Professor at Emory University
 img: https://med.emory.edu/departments/psychiatry/_images/ku_benson_updatedheadshot.jpg
+img_pos: center top
 importance: 4
 category: Collaborators
 ---

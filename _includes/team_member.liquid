@@ -10,7 +10,7 @@
             sizes = "150px"
             alt="project thumbnail"
             class="rounded-circle img-fluid z-depth-1"
-            style="width: 150px; height: 150px; object-fit: cover;"
+            style="width: 150px; height: 150px; object-fit: cover; object-position: {% if project.img_pos %}{{ project.img_pos }}{% else %}center{% endif %};"
             %}
         </div>
       {% endif %}
