@@ -16,26 +16,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-blog",
+        },{id: "dropdown-papers",
+              title: "papers",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "dropdown-abstracts",
+              title: "abstracts",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/abstracts/";
+              },
+            },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-resources",
-          title: "resources",
-          description: "Collection of useful resources for research and teaching.",
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resources/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -134,6 +141,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
+            },},{id: "news-shalaila-spoke-at-the-psyche-psychai-symposium-2026",
+          title: 'Shalaila spoke at the PsychE / PsychAI Symposium 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_13/";
             },},{id: "teaching-computational-psychology",
           title: 'Computational Psychology',
           description: "Introduction to multivariate and neuroimaging methods: using R Studio to navigate through clinical research",
