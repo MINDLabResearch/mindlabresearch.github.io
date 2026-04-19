@@ -141,6 +141,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
+            },},{id: "news-ndex-journal-club-exploring-environmental-adversity-and-brain-maturation",
+          title: 'NDEx Journal Club: Exploring Environmental Adversity and Brain Maturation',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_14/";
             },},{id: "news-shalaila-spoke-at-the-psyche-psychai-symposium-2026",
           title: 'Shalaila spoke at the PsychE / PsychAI Symposium 2026',
           description: "",
