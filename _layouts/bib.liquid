@@ -25,6 +25,9 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
+      {%- if entry.conference_abstract and entry.presentation_type -%}
+        <abbr class="badge rounded w-100">{{ entry.presentation_type | capitalize }}</abbr>
+      {%- endif -%}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">

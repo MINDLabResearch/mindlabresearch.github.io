@@ -19,6 +19,14 @@ nav_order: 3
 Our papers in reverse-chronological order. As of {{ "now" | date: '%B %d, %Y' }}, our academic work received {{ site.data.gscholar.total_citations }} citations by the research community. Please find most up-to-date citation metrics via <a href="https://scholar.google.com/citations?user=AREhBXYAAAAJ&hl=en">Google Scholar</a>.
 
 
-{% bibliography --file papers.bib --query @*[conference_abstract!=true && supervised!=true && ongoing_project!=true]* %}
+{% bibliography --file papers.bib --query @*[conference_abstract!=true && supervised!=true && ongoing_project!=true && book_chapter!=true && thesis!=true]* %}
+
+<h2 class="year">Book Chapters</h2>
+
+{% bibliography --file papers.bib --query @*[book_chapter=true]* %}
+
+<h2 class="year">Theses</h2>
+
+{% bibliography --file papers.bib --query @*[thesis=true]* %}
 
 </div>
