@@ -265,7 +265,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: "*.bib"
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -304,13 +304,17 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    conference_abstract,
+    description,
     google_scholar_id,
     html,
     inspirehep_id,
+    ongoing_project,
     pdf,
     poster,
     preview,
     selected,
+    supervised,
     slides,
     supp,
     video,

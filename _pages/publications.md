@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]
+title: papers
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]
 description: 
-nav: true
+nav: false
 nav_order: 3
 ---
 
@@ -16,9 +16,9 @@ nav_order: 3
 
 <div class="publications">
 
-Our publications in reverse-chronological order. As of {{ "now" | date: '%B %d, %Y' }}, our academic work received {{ site.data.gscholar.total_citations }} citations by the research community. Please find most up-to-date citation metrics via <a href="https://scholar.google.com/citations?user=AREhBXYAAAAJ&hl=en">Google Scholar</a>.
+Our papers in reverse-chronological order. As of {{ "now" | date: '%B %d, %Y' }}, our academic work received {{ site.data.gscholar.total_citations }} citations by the research community. Please find most up-to-date citation metrics via <a href="https://scholar.google.com/citations?user=AREhBXYAAAAJ&hl=en">Google Scholar</a>.
 
 
-{% bibliography %}
+{% bibliography --file papers.bib --query @*[conference_abstract!=true && supervised!=true && ongoing_project!=true]* %}
 
 </div>

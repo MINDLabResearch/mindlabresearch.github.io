@@ -3,14 +3,18 @@
     <div class="card h-100 hoverable border-0 bg-transparent">
       {% if project.img %}
         <div class="text-center mt-3">
+            {% assign image_position = project.img_pos | default: "center" %}
+            {% assign image_fit = project.img_fit | default: "cover" %}
+            {% assign image_bg = project.img_bg | default: "transparent" %}
+            {% capture image_style %}width: 150px; height: 150px; object-fit: {{ image_fit }}; object-position: {{ image_position }}; background-color: {{ image_bg }};{% endcapture %}
             {%
             include figure.liquid
             loading="eager"
             path=project.img
-            sizes = "150px"
+            sizes="150px"
             alt="project thumbnail"
             class="rounded-circle img-fluid z-depth-1"
-            style="width: 150px; height: 150px; object-fit: cover; object-position: {% if project.img_pos %}{{ project.img_pos }}{% else %}center{% endif %};"
+            style=image_style
             %}
         </div>
       {% endif %}
