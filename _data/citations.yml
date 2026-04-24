@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-24'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
     title: 'Refining Schizophrenia Risk Assessment: Machine Learning Delineates a Brain Signature of Cognitive Basic Symptoms'
     year: '2025'
   AREhBXYAAAAJ:-mN3Mh-tlDkC:
-    citations: 37
+    citations: 38
     title: Using brain structural neuroimaging measures to predict psychosis onset for individuals at clinical high-risk
     year: '2024'
   AREhBXYAAAAJ:0CzhzZyukY4C:
@@ -30,7 +30,7 @@ papers:
     title: Anhedonia as a Potential Transdiagnostic Phenotype With Immune-Related Changes in Recent-Onset Mental Health Disorders
     year: '2025'
   AREhBXYAAAAJ:2tRrZ1ZAMYUC:
-    citations: 301
+    citations: 303
     title: Multimodal machine learning workflows for prediction of psychosis in patients with clinical high-risk syndromes and recent-onset depression
     year: '2021'
   AREhBXYAAAAJ:3NQIlFlcGxIC:
@@ -42,7 +42,7 @@ papers:
     title: 'The clinical relevance of formal thought disorder in the early stages of psychosis: results from the PRONIA study'
     year: '2022'
   AREhBXYAAAAJ:4xDN1ZYqzskC:
-    citations: 12
+    citations: 13
     title: Multimodal prognosis of negative symptom severity in individuals at increased risk of developing psychosis
     year: '2021'
   AREhBXYAAAAJ:5bg8sr1QxYwC:
@@ -82,7 +82,7 @@ papers:
     title: Normative Modelling of Brain Morphometry in Individuals at Clinical High-Risk for Psychosis From the ENIGMA CHR Working Group
     year: '2022'
   AREhBXYAAAAJ:8xutWZnSdmoC:
-    citations: 35
+    citations: 36
     title: Multivariate classification of schizophrenia and its familial risk based on load-dependent attentional control brain functional connectivity
     year: '2020'
   AREhBXYAAAAJ:AXkvAH5U_nMC:
@@ -126,7 +126,7 @@ papers:
     title: A multivariate cognitive approach to predict social functioning in recent onset psychosis in response to computerized cognitive training
     year: '2024'
   AREhBXYAAAAJ:CaZNVDsoPx4C:
-    citations: 9
+    citations: 10
     title: Hippocampal volume reduction is associated with direct measure of insulin resistance in adults
     year: '2022'
   AREhBXYAAAAJ:CdxZDUztZiMC:
@@ -150,7 +150,7 @@ papers:
     title: 'F70. COMPUTERIZED SOCIAL COGNITIVE TRAINING (SCT) IMPROVES COGNITION AND RESTORES FUNCTIONAL CONNECTIVITY IN RECENT ONSET PSYCHOSIS: AN INTERIM REPORT'
     year: '2018'
   AREhBXYAAAAJ:F1b5ZUV5XREC:
-    citations: 30
+    citations: 31
     title: A multivariate neuromonitoring approach to neuroplasticity-based computerized cognitive training in recent onset psychosis
     year: '2021'
   AREhBXYAAAAJ:FiytvqdAVhgC:
@@ -262,7 +262,7 @@ papers:
     title: Brain texture alterations predict subtle visual perceptual dysfunctions in recent onset psychosis and clinical high-risk state
     year: '2026'
   AREhBXYAAAAJ:ZzlSgRqYykMC:
-    citations: 18
+    citations: 19
     title: 'Neurocognitive and neuroanatomical maturation in the clinical high-risk states for psychosis: a pattern recognition study'
     year: '2019'
   AREhBXYAAAAJ:_OXeSy2IsFwC:
@@ -322,7 +322,7 @@ papers:
     title: 'From Snapshots to Stable Outcomes: rs-fMRI-based Prognosis of Functioning in Patients with Psychosis Risk or Recent-Onset Depression'
     year: '2025'
   AREhBXYAAAAJ:kw52XkFRtyQC:
-    citations: 70
+    citations: 71
     title: Normative Modeling of Brain Morphometry in Clinical High Risk for Psychosis
     year: '2023'
   AREhBXYAAAAJ:kzcSZmkxUKAC:
@@ -346,7 +346,7 @@ papers:
     title: S44. NEUROBIOLOGICAL FINGERPRINTS OF COGNITIVE SUBTYPES IN RECENT ONSET PSYCHOSIS PATIENTS
     year: '2020'
   AREhBXYAAAAJ:nZcligLrVowC:
-    citations: 119
+    citations: 121
     title: 'Multi-outcome meta-analysis (MOMA) of cognitive remediation in schizophrenia: Revisiting the relevance of human coaching and elucidating interplay between multiple outcomes'
     year: '2019'
   AREhBXYAAAAJ:oi2SiIJ9l4AC:
@@ -374,11 +374,11 @@ papers:
     title: Neural correlates of thought disorder and attenuated hallucinatory symptoms in individuals at clinical high risk for psychosis
     year: '2020'
   AREhBXYAAAAJ:uDGL6kOW6j0C:
-    citations: 148
+    citations: 149
     title: "Association of structural magnetic resonance imaging measures with psychosis onset in individuals at clinical high risk for developing psychosis: an ENIGMA working group mega \u2026"
     year: '2021'
   AREhBXYAAAAJ:ubry08Y2EpUC:
-    citations: 39
+    citations: 40
     title: Sex differences in predictors and regional patterns of brain age gap estimates
     year: '2022'
   AREhBXYAAAAJ:v1_lew4L6wgC:
