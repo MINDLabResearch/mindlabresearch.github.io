@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIND Lab Master's Students Shine at Teacher's College Integrative Project Showcase"
+title: "Master's Students Shine at Teacher's College Integrative Project Showcase"
 date: 2026-04-25 10:00-0000
 inline: false
 ---
@@ -24,9 +24,9 @@ Despite challenges such as a modest sample size and the integration of HiTOP-inf
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/news/Masters_Aashree_3rd_Place_2026.jpg" title="Aashree presenting her poster and receiving 3rd place" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/Masters_Aashree_Dani_2026.jpg" title="Aashree and Dani at the showcase" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/news/Masters_Aashree_Dani_2026.jpg" title="Aashree and Dani at the showcase" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/news/Masters_Aashree_3rd_Place_2026.jpg" title="Aashree presenting her poster and receiving 3rd place" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
