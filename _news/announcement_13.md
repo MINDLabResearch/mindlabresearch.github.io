@@ -16,3 +16,9 @@ Key Highlights from the Talk:
 - The Power of Therapeutic Alliance: Preliminary findings showed that therapeutic alliance (TA) scores significantly impact outcomes; patients who later experienced a crisis event or dropped out often showed lower TA scores in initial sessions.
 
 Dr. Haas concluded by emphasizing that AI is not intended to replace the clinician, but rather to provide them with tools to "listen more deeply" and hear what the human eye and ear might miss in the pursuit of personalized care.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/news/PsychE_Symposium_2026.jpg" title="Dr. Shalaila Haas speaking at the PsychE / PsychAI Symposium 2026" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
