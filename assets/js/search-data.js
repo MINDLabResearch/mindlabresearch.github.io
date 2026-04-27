@@ -151,8 +151,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_13/";
-            },},{id: "news-mind-lab-master-39-s-students-shine-at-teacher-39-s-college-integrative-project-showcase",
-          title: 'MIND Lab Master&amp;#39;s Students Shine at Teacher&amp;#39;s College Integrative Project Showcase',
+            },},{id: "news-master-39-s-students-shine-at-teacher-39-s-college-integrative-project-showcase",
+          title: 'Master&amp;#39;s Students Shine at Teacher&amp;#39;s College Integrative Project Showcase',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
