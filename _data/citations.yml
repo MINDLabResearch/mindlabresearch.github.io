@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-11'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
     title: 'Refining Schizophrenia Risk Assessment: Machine Learning Delineates a Brain Signature of Cognitive Basic Symptoms'
     year: '2025'
   AREhBXYAAAAJ:-mN3Mh-tlDkC:
-    citations: 38
+    citations: 39
     title: Using brain structural neuroimaging measures to predict psychosis onset for individuals at clinical high-risk
     year: '2024'
   AREhBXYAAAAJ:0CzhzZyukY4C:
@@ -30,7 +30,7 @@ papers:
     title: Anhedonia as a Potential Transdiagnostic Phenotype With Immune-Related Changes in Recent-Onset Mental Health Disorders
     year: '2025'
   AREhBXYAAAAJ:2tRrZ1ZAMYUC:
-    citations: 304
+    citations: 305
     title: Multimodal machine learning workflows for prediction of psychosis in patients with clinical high-risk syndromes and recent-onset depression
     year: '2021'
   AREhBXYAAAAJ:3NQIlFlcGxIC:
@@ -38,7 +38,7 @@ papers:
     title: Alterations of functional connectivity dynamics in affective and psychotic disorders
     year: '2024'
   AREhBXYAAAAJ:48xauSegjOkC:
-    citations: 28
+    citations: 29
     title: 'The clinical relevance of formal thought disorder in the early stages of psychosis: results from the PRONIA study'
     year: '2022'
   AREhBXYAAAAJ:4xDN1ZYqzskC:
@@ -53,6 +53,10 @@ papers:
     citations: 0
     title: "O6. 4. ASSOCIATION BETWEEN CLUSTERS OF FORMAL THOUGHT DISORDERS SEVERITY AND NEUROCOGNITIVE AND FUNCTIONAL OUTCOME INDICES IN THE EARLY STAGES OF PSYCHOSIS\u2013RESULTS FROM THE \u2026"
     year: '2020'
+  AREhBXYAAAAJ:69ZgNCALVd0C:
+    citations: 0
+    title: 696. Audio Diary Engagement Patterns as a Potential Behavioral Marker
+    year: '2026'
   AREhBXYAAAAJ:6_hjMsCP8ZoC:
     citations: 6
     title: Metabolic status modulates global and local brain age estimates in overweight and obese adults
@@ -62,15 +66,15 @@ papers:
     title: '42. Network-BrainAGE: A New Metric to Assess Network-Based Brain Aging'
     year: '2024'
   AREhBXYAAAAJ:6yz0xqPARnAC:
-    citations: 33
+    citations: 34
     title: Personalized estimates of brain structural variability in individuals with early psychosis
     year: '2021'
   AREhBXYAAAAJ:7BrZ7Jt4UNcC:
-    citations: 44
+    citations: 45
     title: 'Exploring links between psychosis and frontotemporal dementia using multimodal machine learning: dementia praecox revisited'
     year: '2022'
   AREhBXYAAAAJ:7H_MAutzIkAC:
-    citations: 10
+    citations: 9
     title: "Structural and functional brain patterns predict formal thought disorder\u2019s severity and its persistence in recent-onset psychosis: Results from the PRONIA Study"
     year: '2023'
   AREhBXYAAAAJ:7Hz3ACDFbsoC:
@@ -82,7 +86,7 @@ papers:
     title: Normative Modelling of Brain Morphometry in Individuals at Clinical High-Risk for Psychosis From the ENIGMA CHR Working Group
     year: '2022'
   AREhBXYAAAAJ:8xutWZnSdmoC:
-    citations: 36
+    citations: 34
     title: Multivariate classification of schizophrenia and its familial risk based on load-dependent attentional control brain functional connectivity
     year: '2020'
   AREhBXYAAAAJ:AXkvAH5U_nMC:
@@ -178,7 +182,7 @@ papers:
     title: Lifestyle and BrainAGE in Adult Depression
     year: '2025'
   AREhBXYAAAAJ:LdasjJ6CEcoC:
-    citations: 35
+    citations: 38
     title: Clinical, brain, and multilevel clustering in early psychosis and affective stages
     year: '2022'
   AREhBXYAAAAJ:LgRImbQfgY4C:
@@ -190,7 +194,7 @@ papers:
     title: Generalizability of BrainAGE Models of Brain Morphometry Across Distinct Ethnoracial Groups
     year: '2025'
   AREhBXYAAAAJ:MhiOAD_qIWkC:
-    citations: 125
+    citations: 129
     title: 'Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation'
     year: '2024'
   AREhBXYAAAAJ:NyGDZy8z5eUC:
@@ -214,13 +218,17 @@ papers:
     title: Reduced neural connectivity in the caudate anterior head predicts hallucination severity in schizophrenia
     year: '2023'
   AREhBXYAAAAJ:PaBasH6fAo0C:
-    citations: 41
+    citations: 42
     title: Neuroanatomical heterogeneity and homogeneity in individuals at clinical high risk for psychosis
     year: '2022'
   AREhBXYAAAAJ:QD3KBmkZPeQC:
     citations: 14
     title: "A qualitative study on identity in individuals at clinical high risk for psychosis:\u201C\u2026 Why does it have to be one thing?\u201D."
     year: '2022'
+  AREhBXYAAAAJ:QUX0mv85b1cC:
+    citations: 0
+    title: '693. Audio Diary Engagement and Themes Across Psychiatric Diagnoses and Outcomes: Preliminary Data From the Predictor Study'
+    year: '2026'
   AREhBXYAAAAJ:QyXJ3EUuO1IC:
     citations: 0
     title: 'Disrupted Hierarchical Functional Brain Organization in Affective and Psychotic Disorders: Insights from Functional Brain Gradients'
@@ -230,9 +238,17 @@ papers:
     title: Network-Informed Brain Aging Across the Psychosis-Spectrum
     year: '2025'
   AREhBXYAAAAJ:SjuI4pbJlxcC:
-    citations: 67
+    citations: 68
     title: Brain responses to intermittent fasting and the healthy living diet in older adults
     year: '2024'
+  AREhBXYAAAAJ:SnGPuo6Feq8C:
+    citations: 0
+    title: 'Common Substrates of Early Illness Severity: Clinical, Genetic, and Brain Evidence'
+    year: '2026'
+  AREhBXYAAAAJ:TlpoogIpr_IC:
+    citations: 0
+    title: '315. Estimating Therapeutic Alliance From Clinical Interview Sessions With Large Language Models: A PREDiCTOR Study'
+    year: '2026'
   AREhBXYAAAAJ:U4n9YNQMCAIC:
     citations: 1
     title: Estimating Self-Disturbance in Psychosis and Its Risk States Using Natural Language Processing Analysis of Open-Ended Interviews
@@ -246,7 +262,7 @@ papers:
     title: "Environmentally derived subgroups of preadolescents with family history of substance use exhibit distinct patterns of psychopathology and reward-related behaviors: insights \u2026"
     year: '2025'
   AREhBXYAAAAJ:WAzi4Gm8nLoC:
-    citations: 0
+    citations: 1
     title: Biosignatures of cognitive basic symptoms mark a distinct neurodevelopmental pathway to schizophrenia
     year: '2026'
   AREhBXYAAAAJ:WHdLCjDvYFkC:
@@ -262,7 +278,7 @@ papers:
     title: Brain texture alterations predict subtle visual perceptual dysfunctions in recent onset psychosis and clinical high-risk state
     year: '2026'
   AREhBXYAAAAJ:ZzlSgRqYykMC:
-    citations: 19
+    citations: 17
     title: 'Neurocognitive and neuroanatomical maturation in the clinical high-risk states for psychosis: a pattern recognition study'
     year: '2019'
   AREhBXYAAAAJ:_OXeSy2IsFwC:
@@ -290,7 +306,7 @@ papers:
     title: Cognitive Ability and MRI-Predicted Age Gap in Healthy Individuals From a Large Epidemiological Sample
     year: '2020'
   AREhBXYAAAAJ:j7_hQOaDUrUC:
-    citations: 24
+    citations: 25
     title: The impact of visual dysfunctions in recent-onset psychosis and clinical high-risk state for psychosis
     year: '2022'
   AREhBXYAAAAJ:jE2MZjpN3IcC:
@@ -322,7 +338,7 @@ papers:
     title: 'From Snapshots to Stable Outcomes: rs-fMRI-based Prognosis of Functioning in Patients with Psychosis Risk or Recent-Onset Depression'
     year: '2025'
   AREhBXYAAAAJ:kw52XkFRtyQC:
-    citations: 71
+    citations: 73
     title: Normative Modeling of Brain Morphometry in Clinical High Risk for Psychosis
     year: '2023'
   AREhBXYAAAAJ:kzcSZmkxUKAC:
@@ -337,6 +353,10 @@ papers:
     citations: 19
     title: Consortium, P.(2021). Multimodal machine learning workflows for prediction of psychosis in patients with clinical high-risk syndromes and recent-onset depression
     year: Unknown Year
+  AREhBXYAAAAJ:mWEH9CqjF64C:
+    citations: 0
+    title: 268. A Natural Language Processing (NLP) Approach for Assessing Therapeutic Alliance in Psychotherapy Sessions for Individuals at Clinical High Risk for Psychosis
+    year: '2026'
   AREhBXYAAAAJ:nRpfm8aw39MC:
     citations: 0
     title: Separation of recent-onset psychosis patients from healthy controls based on resting state functional connectivity pattern classification
@@ -346,7 +366,7 @@ papers:
     title: S44. NEUROBIOLOGICAL FINGERPRINTS OF COGNITIVE SUBTYPES IN RECENT ONSET PSYCHOSIS PATIENTS
     year: '2020'
   AREhBXYAAAAJ:nZcligLrVowC:
-    citations: 122
+    citations: 121
     title: 'Multi-outcome meta-analysis (MOMA) of cognitive remediation in schizophrenia: Revisiting the relevance of human coaching and elucidating interplay between multiple outcomes'
     year: '2019'
   AREhBXYAAAAJ:oi2SiIJ9l4AC:
@@ -361,10 +381,18 @@ papers:
     citations: 0
     title: "From Snapshots to Stable Outcomes: Resting-State Functional Magnetic Resonance Imaging\u2013Based Prognosis of Functioning in Patients With Psychosis Risk or Recent-Onset Depression"
     year: '2026'
+  AREhBXYAAAAJ:pS0ncopqnHgC:
+    citations: 0
+    title: '371. Treatment Perceptions and Outcomes: Preliminary Results From Patient Audio and Self-Report in the PREDiCTOR Study'
+    year: '2026'
   AREhBXYAAAAJ:rHJHxKgnXwkC:
     citations: 45
     title: "Brain\u2010age prediction: Systematic evaluation of site effects, and sample age range and size"
     year: '2024'
+  AREhBXYAAAAJ:rTD5ala9j4wC:
+    citations: 0
+    title: "43. A Comparison of Raw Morphometry and Normative Modeling Metrics for the Study of Alzheimer\u2019s Disease"
+    year: '2026'
   AREhBXYAAAAJ:sJsF-0ZLhtgC:
     citations: 4
     title: 'Thinner cortex is associated with psychosis onset in individuals at Clinical High Risk for Developing Psychosis: An ENIGMA Working Group mega-analysis'
@@ -390,8 +418,8 @@ papers:
     title: Linking language features to clinical symptoms and multimodal imaging in individuals at clinical high risk for psychosis
     year: '2020'
   AREhBXYAAAAJ:w0F2JDEymm0C:
-    citations: 2
-    title: Multivariate Brain-Blood Signatures in Early-Stage Depression and Psychosis
+    citations: 3
+    title: Multivariate brain-blood signatures in early-stage depression and psychosis
     year: '2026'
   AREhBXYAAAAJ:w1MjKQ0l0TYC:
     citations: 0
