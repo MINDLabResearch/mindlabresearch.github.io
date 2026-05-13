@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-13'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -74,7 +74,7 @@ papers:
     title: 'Exploring links between psychosis and frontotemporal dementia using multimodal machine learning: dementia praecox revisited'
     year: '2022'
   AREhBXYAAAAJ:7H_MAutzIkAC:
-    citations: 9
+    citations: 10
     title: "Structural and functional brain patterns predict formal thought disorder\u2019s severity and its persistence in recent-onset psychosis: Results from the PRONIA Study"
     year: '2023'
   AREhBXYAAAAJ:7Hz3ACDFbsoC:
@@ -194,7 +194,7 @@ papers:
     title: Generalizability of BrainAGE Models of Brain Morphometry Across Distinct Ethnoracial Groups
     year: '2025'
   AREhBXYAAAAJ:MhiOAD_qIWkC:
-    citations: 129
+    citations: 132
     title: 'Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation'
     year: '2024'
   AREhBXYAAAAJ:NyGDZy8z5eUC:
@@ -214,7 +214,7 @@ papers:
     title: Auditory Mismatch Negativity in Clinical High Risk for Psychosis and Schizophrenia, and Association With Symptoms and Cognition
     year: '2021'
   AREhBXYAAAAJ:PYBJJbyH-FwC:
-    citations: 4
+    citations: 5
     title: Reduced neural connectivity in the caudate anterior head predicts hallucination severity in schizophrenia
     year: '2023'
   AREhBXYAAAAJ:PaBasH6fAo0C:
@@ -338,7 +338,7 @@ papers:
     title: 'From Snapshots to Stable Outcomes: rs-fMRI-based Prognosis of Functioning in Patients with Psychosis Risk or Recent-Onset Depression'
     year: '2025'
   AREhBXYAAAAJ:kw52XkFRtyQC:
-    citations: 73
+    citations: 74
     title: Normative Modeling of Brain Morphometry in Clinical High Risk for Psychosis
     year: '2023'
   AREhBXYAAAAJ:kzcSZmkxUKAC:
@@ -386,7 +386,7 @@ papers:
     title: '371. Treatment Perceptions and Outcomes: Preliminary Results From Patient Audio and Self-Report in the PREDiCTOR Study'
     year: '2026'
   AREhBXYAAAAJ:rHJHxKgnXwkC:
-    citations: 45
+    citations: 47
     title: "Brain\u2010age prediction: Systematic evaluation of site effects, and sample age range and size"
     year: '2024'
   AREhBXYAAAAJ:rTD5ala9j4wC:
