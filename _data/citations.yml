@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-22'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -30,7 +30,7 @@ papers:
     title: Anhedonia as a Potential Transdiagnostic Phenotype With Immune-Related Changes in Recent-Onset Mental Health Disorders
     year: '2025'
   AREhBXYAAAAJ:2tRrZ1ZAMYUC:
-    citations: 306
+    citations: 307
     title: Multimodal machine learning workflows for prediction of psychosis in patients with clinical high-risk syndromes and recent-onset depression
     year: '2021'
   AREhBXYAAAAJ:3NQIlFlcGxIC:
@@ -173,10 +173,6 @@ papers:
     citations: 3
     title: 96. Network BrainAGE and Cognitive Functioning in First Episode Mania
     year: '2025'
-  AREhBXYAAAAJ:HJSXoJQnj-YC:
-    citations: 0
-    title: MULTIMODAL PROGNOSIS OF NEGATIVE SYMPTOM SEVERITY IN INDIVIDUALS WITH INCREASED RISK OF DEVELOPING PSYCHOSIS
-    year: '2020'
   AREhBXYAAAAJ:HhcuHIWmDEUC:
     citations: 0
     title: 'Structural covariance network topology in individuals at clinical high risk for psychosis: the ENIGMA-CHR Study'
@@ -202,7 +198,7 @@ papers:
     title: Generalizability of BrainAGE Models of Brain Morphometry Across Distinct Ethnoracial Groups
     year: '2025'
   AREhBXYAAAAJ:MhiOAD_qIWkC:
-    citations: 136
+    citations: 137
     title: 'Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation'
     year: '2024'
   AREhBXYAAAAJ:NyGDZy8z5eUC:
