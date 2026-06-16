@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Debora Gonzalez
-description: PhD Student 
+description: Former Clinical Research Coordinator 
 img: https://avatars.githubusercontent.com/u/47433388?v=4
 importance: 9
 category: Alumni

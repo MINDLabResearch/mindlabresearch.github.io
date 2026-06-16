@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Aashree Gandhi
-description: Volunteer
+description: Former Volunteer
 img: https://avatars.githubusercontent.com/u/244583256?v=4
 importance: 4
-category: Lab
+category: Alumni
 ---
 
 <div class="profile float-right mb-3"> 
