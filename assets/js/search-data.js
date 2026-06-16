@@ -30,14 +30,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/publications/abstracts/";
               },
-            },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-teaching",
+            },{id: "nav-teaching",
           title: "teaching",
           description: "Listed below are our past and current teaching engagements.",
           section: "Navigation",
@@ -181,12 +174,12 @@ ninja.data = [{
               window.location.href = "/team/franco/";
             },},{id: "team-aashree-gandhi",
           title: 'Aashree Gandhi',
-          description: "Volunteer",
+          description: "Former Volunteer",
           section: "Team",handler: () => {
               window.location.href = "/team/gandhi/";
             },},{id: "team-debora-gonzalez",
           title: 'Debora Gonzalez',
-          description: "PhD Student",
+          description: "Former Clinical Research Coordinator",
           section: "Team",handler: () => {
               window.location.href = "/team/gonzales/";
             },},{id: "team-dr-shalaila-haas",
@@ -216,7 +209,7 @@ ninja.data = [{
               window.location.href = "/team/ku/";
             },},{id: "team-danielle-obergh",
           title: 'Danielle Obergh',
-          description: "Volunteer",
+          description: "Former Volunteer",
           section: "Team",handler: () => {
               window.location.href = "/team/obergh/";
             },},{id: "team-sophie-riviere",
