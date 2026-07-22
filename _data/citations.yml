@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-22'
 papers:
   AREhBXYAAAAJ:-7ulzOJl1JYC:
     citations: 1
@@ -74,11 +74,11 @@ papers:
     title: 'Exploring links between psychosis and frontotemporal dementia using multimodal machine learning: dementia praecox revisited'
     year: '2022'
   AREhBXYAAAAJ:7H_MAutzIkAC:
-    citations: 11
+    citations: 12
     title: "Structural and functional brain patterns predict formal thought disorder\u2019s severity and its persistence in recent-onset psychosis: Results from the PRONIA Study"
     year: '2023'
   AREhBXYAAAAJ:7Hz3ACDFbsoC:
-    citations: 27
+    citations: 28
     title: Accelerated global and local brain aging differentiate cognitively impaired from cognitively spared patients with schizophrenia
     year: '2022'
   AREhBXYAAAAJ:7wO8s98CvbsC:
@@ -198,7 +198,7 @@ papers:
     title: Generalizability of BrainAGE Models of Brain Morphometry Across Distinct Ethnoracial Groups
     year: '2025'
   AREhBXYAAAAJ:MhiOAD_qIWkC:
-    citations: 152
+    citations: 153
     title: 'Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation'
     year: '2024'
   AREhBXYAAAAJ:NyGDZy8z5eUC:
@@ -242,7 +242,7 @@ papers:
     title: Network-Informed Brain Aging Across the Psychosis-Spectrum
     year: '2025'
   AREhBXYAAAAJ:SjuI4pbJlxcC:
-    citations: 80
+    citations: 81
     title: Brain responses to intermittent fasting and the healthy living diet in older adults
     year: '2024'
   AREhBXYAAAAJ:SnGPuo6Feq8C:
@@ -370,7 +370,7 @@ papers:
     title: S44. NEUROBIOLOGICAL FINGERPRINTS OF COGNITIVE SUBTYPES IN RECENT ONSET PSYCHOSIS PATIENTS
     year: '2020'
   AREhBXYAAAAJ:nZcligLrVowC:
-    citations: 121
+    citations: 122
     title: 'Multi-outcome meta-analysis (MOMA) of cognitive remediation in schizophrenia: Revisiting the relevance of human coaching and elucidating interplay between multiple outcomes'
     year: '2019'
   AREhBXYAAAAJ:oi2SiIJ9l4AC:
@@ -390,7 +390,7 @@ papers:
     title: '371. Treatment Perceptions and Outcomes: Preliminary Results From Patient Audio and Self-Report in the PREDiCTOR Study'
     year: '2026'
   AREhBXYAAAAJ:rHJHxKgnXwkC:
-    citations: 56
+    citations: 57
     title: "Brain\u2010age prediction: Systematic evaluation of site effects, and sample age range and size"
     year: '2024'
   AREhBXYAAAAJ:rTD5ala9j4wC:
